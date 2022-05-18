@@ -1,0 +1,2 @@
+def bazinga():
+    print("bazinga")
